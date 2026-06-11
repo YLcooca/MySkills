@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2a1af4bf-5cc5-45d3-805d-84df7f073465",
+  "path": "prototype",
+  "path_key": "prototype",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/mattpocock/skills",
+    "subpath": "skills/engineering/prototype",
+    "branch": null
+  }
+}

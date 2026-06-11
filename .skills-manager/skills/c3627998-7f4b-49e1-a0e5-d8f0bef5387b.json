@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c3627998-7f4b-49e1-a0e5-d8f0bef5387b",
+  "path": "write-a-skill",
+  "path_key": "write-a-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/mattpocock/skills",
+    "subpath": "skills/productivity/write-a-skill",
+    "branch": null
+  }
+}

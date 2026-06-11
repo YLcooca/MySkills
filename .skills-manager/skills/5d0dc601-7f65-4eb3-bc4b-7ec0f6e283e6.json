@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5d0dc601-7f65-4eb3-bc4b-7ec0f6e283e6",
+  "path": "caveman",
+  "path_key": "caveman",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/mattpocock/skills",
+    "subpath": "skills/productivity/caveman",
+    "branch": null
+  }
+}

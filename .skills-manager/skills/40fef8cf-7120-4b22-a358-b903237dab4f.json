@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "40fef8cf-7120-4b22-a358-b903237dab4f",
+  "path": "review",
+  "path_key": "review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/mattpocock/skills",
+    "subpath": "skills/in-progress/review",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3cebd99d-e7ed-41bb-8e52-ba13908d813f",
+  "path": "triage",
+  "path_key": "triage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "git",
+    "ref": "https://github.com/mattpocock/skills",
+    "subpath": "skills/engineering/triage",
+    "branch": null
+  }
+}
