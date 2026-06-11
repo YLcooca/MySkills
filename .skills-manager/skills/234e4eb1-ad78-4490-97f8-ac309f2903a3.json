@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "234e4eb1-ad78-4490-97f8-ac309f2903a3",
+  "path": "mcap-cli",
+  "path_key": "mcap-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

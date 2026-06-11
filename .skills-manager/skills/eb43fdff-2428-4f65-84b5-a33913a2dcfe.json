@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eb43fdff-2428-4f65-84b5-a33913a2dcfe",
+  "path": "gerrit-change",
+  "path_key": "gerrit-change",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

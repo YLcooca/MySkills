@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ec904fe5-1dd4-4593-ba1a-be01868bf37f",
+  "path": "lathe-verify",
+  "path_key": "lathe-verify",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

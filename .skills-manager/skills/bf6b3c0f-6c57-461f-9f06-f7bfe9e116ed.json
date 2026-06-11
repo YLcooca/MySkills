@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bf6b3c0f-6c57-461f-9f06-f7bfe9e116ed",
+  "path": "update-std-md",
+  "path_key": "update-std-md",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

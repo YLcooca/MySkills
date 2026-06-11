@@ -1,0 +1,35 @@
+{
+  "skill_name": "perf-analysis",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "我需要分析J012车辆在2025-09-26-12-08-53到2025-09-26-12-09-06时间段的性能数据，帮我下载并解析metrics数据",
+      "expected_output": "应该生成ados_tools命令，使用--mode metrics --car_id J012 --time参数来下载和解析云端metrics数据",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "本地有一个mcap文件在./2025-09-29-14-28-53_2025-09-29-14-29-06目录，我需要解析其中的trace数据",
+      "expected_output": "应该生成ados_tools命令，使用--mode trace_local --input_dir参数来解析本地trace数据",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "我想生成Jira ADLSVC-62899的全量性能报告",
+      "expected_output": "应该生成ados_tools命令，使用--mode jira_report --jira_id ADLSVC-62899来下载并解析Jira关联的mcap文件",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "我有一个trigger_record文件在./mcap目录，需要解析soc1的ebpf数据，时间范围是2025-10-30-11-18-40到2025-10-30-11-18-50",
+      "expected_output": "应该生成ados_tools命令，使用--mode ebpf_local --raw_args --type trigger_record --input_dir --add soc1 -t参数来解析本地ebpf数据",
+      "files": []
+    },
+    {
+      "id": 5,
+      "prompt": "帮我分析一下车辆性能问题，车辆ID是A014，问题发生在2025-10-15-10-30-00到2025-10-15-10-31-00之间",
+      "expected_output": "应该询问用户需要分析哪种类型的数据(metrics/trace/ebpf)，或者建议使用--mode all来解析所有数据",
+      "files": []
+    }
+  ]
+}

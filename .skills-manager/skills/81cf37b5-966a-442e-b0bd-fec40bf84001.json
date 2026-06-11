@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "81cf37b5-966a-442e-b0bd-fec40bf84001",
+  "path": "perf-analysis",
+  "path_key": "perf-analysis",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

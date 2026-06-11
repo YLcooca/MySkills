@@ -1,0 +1,35 @@
+{
+  "skill_name": "init-std-md",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "/init-std-md /tmp/test-python-project",
+      "expected_output": "在 /tmp/test-python-project/.claude/ 下生成完整的文档结构，包括 CLAUDE.md、memory/*.md 和 features/FEATURES.md",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "初始化 /home/user/my-embedded-project 的项目文档",
+      "expected_output": "在 /home/user/my-embedded-project/.claude/ 下生成文档结构，识别嵌入式项目特征",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "请帮我生成 /tmp/node-webapp 的规范文档",
+      "expected_output": "在 /tmp/node-webapp/.claude/ 下生成文档结构，识别 Node.js 项目特征",
+      "files": []
+    },
+    {
+      "id": 4,
+      "prompt": "/update-std-md /tmp/existing-python-project",
+      "expected_output": "读取现有 .claude/ 文档，分析项目变更，更新 ARCHITECTURE.md/TECH_STACK.md/CODE_PATTERNS.md，并在 DECISION_LOG.md 追加变更记录",
+      "files": []
+    },
+    {
+      "id": 5,
+      "prompt": "更新 /home/user/my-project 的项目文档",
+      "expected_output": "同步项目最新状态，智能更新文档，保留用户手动编辑的内容",
+      "files": []
+    }
+  ]
+}

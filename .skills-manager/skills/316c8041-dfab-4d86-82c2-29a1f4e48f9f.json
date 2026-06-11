@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "316c8041-dfab-4d86-82c2-29a1f4e48f9f",
+  "path": "save-by-channel",
+  "path_key": "save-by-channel",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

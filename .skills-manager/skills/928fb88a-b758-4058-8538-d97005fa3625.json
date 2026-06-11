@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "928fb88a-b758-4058-8538-d97005fa3625",
+  "path": "lathe-extend",
+  "path_key": "lathe-extend",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

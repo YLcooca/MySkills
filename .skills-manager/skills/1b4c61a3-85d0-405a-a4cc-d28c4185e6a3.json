@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1b4c61a3-85d0-405a-a4cc-d28c4185e6a3",
+  "path": "event-search",
+  "path_key": "event-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
